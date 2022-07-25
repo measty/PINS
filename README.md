@@ -11,4 +11,6 @@ pip install pytorch-ignite
 and h5py: 
 pip install h5py
 
-The data referenced in the paper can be found at: https://drive.google.com/drive/folders/1AjH3J4oUb6rezBTKj_KvQviEa9U19Sml?usp=sharing
+The data referenced in the paper can be found at: https://drive.google.com/drive/folders/1AjH3J4oUb6rezBTKj_KvQviEa9U19Sml?usp=sharing  
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
